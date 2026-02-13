@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: 38ceb3d90ce3d4787b5b7b03d5bde325
+timeCreated: 1533768198
+licenseType: Store
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 125731
+  packageName: "\u0421ountry house"
+  packageVersion: 1.1
+  assetPath: Assets/ALP_Assets/country house01/Materials/Glass.mat
+  uploadId: 607083
