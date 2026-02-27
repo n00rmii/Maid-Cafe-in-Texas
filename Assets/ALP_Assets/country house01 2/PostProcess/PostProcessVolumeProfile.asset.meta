@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 601fc0869c4234f91a9b79fcc8d7cc68
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 125731
+  packageName: "\u0421ountry house"
+  packageVersion: 1.1
+  assetPath: Assets/ALP_Assets/country house01/PostProcess/PostProcessVolumeProfile.asset
+  uploadId: 607083
